@@ -9,12 +9,12 @@ Example:
 
 ```         
 <p align="center">
-  <img src="assets/elter_logomark.svg" alt="eLTER Project Logo" width="300" height="auto"/>
+  <img src="assets/eLTER-IMAGE-eLTER_logo-v01.svg" alt="eLTER Project Logo" width="300" height="auto"/>
 </p>
 ```
 
 <p align="center">
-  <img src="assets/elter_logomark.svg" alt="eLTER Project Logo" width="300" height="auto"/>
+  <img src="assets/eLTER-IMAGE-eLTER_logo-v01.svg" alt="eLTER Project Logo" width="300" height="auto"/>
 </p>
 
 # Repository title
@@ -226,10 +226,10 @@ EnRich.
 
 <p align="center">
   <a href="https://elter-ri.eu/elter-ppp">
-    <img src="assets/eLTER_PPP.svg" alt="eLTER PLUS Logo" width="175" height="auto"/>
+    <img src="assets/eLTER-IMAGE-PPP_logo-v01.svg" alt="eLTER PLUS Logo" width="175" height="auto"/>
   </a> <a href="https://elter-ri.eu/elter-plus">
-    <img src="assets/eLTER_PLUS_Logo.svg" width="175" height="auto"/>
+    <img src="assets/eLTER-IMAGE-PLUS_logo-v01.svg" width="175" height="auto"/>
   </a> <a href="https://elter-ri.eu/elter-enrich">
-    <img src="assets/eLTER_EnRich.svg" alt="eLTER EnRich Logo" width="175" height="auto"/>
+    <img src="assets/eLTER-IMAGE-EnRich_logo-v01.svg" alt="eLTER EnRich Logo" width="175" height="auto"/>
   </a>
 </p>
