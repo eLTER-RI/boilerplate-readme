@@ -1,4 +1,4 @@
-# Contributing to eLTER-SO-costs-App
+# Contributing to eLTER-boilerplate-readme
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the managers of this repository before making a change. This Discussion Forum is the perfect place to ask questions, propose features and discuss improvements.
 
@@ -12,7 +12,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the eLTER-SO-costs-App Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to allan.souza@helsinki.fi.
+This project and everyone participating in it is governed by the eLTER-boilerplate-readme Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to allan.souza@helsinki.fi.
 
 ## Getting Started
 
