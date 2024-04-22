@@ -150,7 +150,7 @@ instructions. To do so, add a folder named `.github` on the project
 root. In this folder you should add the following files:
 
 -   `CONTRIBUTING.md`
--   `CODE_OF_CONDUT.md`
+-   `CODE_OF_CONDUCT.md`
 -   `PULL_REQUEST_TEMPLATE.md`
 -   `ISSUE_TEMPLATE.md`
 -   `BUG_REPORT.md`
