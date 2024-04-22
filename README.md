@@ -1,11 +1,3 @@
----
-title: "eLTER README Boilerplate"
-
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Logo
 
 Add an eLTER logo or a logo specific to the tool/software at the top of
@@ -64,7 +56,7 @@ Add a table of contents at the beginning of the `README.md` file.
 -   [Citation](#citation)
 -   [Acknowledgments](#acknowledgments)
 
-## Installation and usage {#installation-and-usage}
+## Installation and usage
 
 Instructions on how to use the software, including links to any required
 software and dependencies, and any necessary commands or scripts.
@@ -76,7 +68,7 @@ Provide examples:
 install.packages(tidyverse)
 ```
 
-## Coding style {#coding-style}
+## Coding style
 
 To maintain the quality and readability of our code, we follow certain
 coding standards. Contributors are expected to adhere to these
@@ -108,7 +100,7 @@ guidelines when writing code for this project:
 -   For R, you can use the [`lintr`](https://lintr.r-lib.org/) package
     or RStudio's built-in code formatting capabilities.
 
-## Data standards {#data-standards}
+## Data standards
 
 This project adheres to eLTER data standards. Please ensure all data
 complies with these standards and is deposited appropriately in
@@ -116,7 +108,7 @@ complies with these standards and is deposited appropriately in
 [B2SHARE](https://b2share.eudat.eu/communities/LTER) repositories as per
 eLTER community guidelines.
 
-## File naming nomenclature {#file-naming-nomenclature}
+## File naming nomenclature
 
 To ensure clarity and ease of access for all contributors, please adhere
 to the following file naming conventions:
@@ -136,7 +128,7 @@ to the following file naming conventions:
     -   `eLTER-CODE-data_loading-v01.R`
     -   `eLTER-DATA-temperature_sensor_data-v01.csv`
 
-## Reproducibility {#reproducibility}
+## Reproducibility
 
 Ensure the reproducibility of your work by:
 
@@ -150,7 +142,7 @@ Ensure the reproducibility of your work by:
     data repositories with clear metadata.
 -   Documenting any deviations from the expected protocols.
 
-## Contributing {#contributing}
+## Contributing
 
 The repository should have clear instructions on how to contribute to
 the project. This should include different files with clear
@@ -164,15 +156,15 @@ root. In this folder you should add the following files:
 -   `BUG_REPORT.md`
 -   `FEATURE_REQUEST.md`
 
-## Authors {#authors}
+## Authors
 
 List of contributors to the project. Include [ORCID](https://orcid.org/)
 to uniquely identify contributors and the Research Organization Registry
 ([ROR](https://ror.org/)) for the institution.
 
-|     Author     |                     Affiliation                     |                            ORCID                             |                               e-mail                               |
-|:--------------:|:---------------------:|:---------------:|:--------------:|
-| Allan T. Souza | [University of Helsinki](https://ror.org/040af2s02) | [0000-0002-1851-681X](https://orcid.org/0000-0002-1851-681X) | [allan.souza\@helsinki.fi](mailto:allan.souza@helsinki.fi){.email} |
+| Author | Affiliation | ORCID | e-mail |
+| :---: | :---: | :---: | :---: |
+| Allan T. Souza | [University of Helsinki](https://ror.org/040af2s02) | [0000-0002-1851-681X](https://orcid.org/0000-0002-1851-681X) | [allan.souza\@helsinki.fi](mailto:allan.souza@helsinki.fi) |
 
 Optionally, you can also add the authors faces with the link to their
 GitHub accounts. To do so, you can add the a code like the one below on
@@ -195,7 +187,7 @@ like in this example:
 https://api.github.com/search/users?q=Allan+T+Souza+in%3Ausername
 ```
 
-## License {#license}
+## License
 
 Describe the license used in the project and include a file named
 `LICENSE` in the root of the repository:
@@ -204,13 +196,13 @@ Describe the license used in the project and include a file named
     License](https://eupl.eu/) - see the [LICENSE](LICENSE) file for
     details.
 
-## Citation {#citation}
+## Citation
 
 Add a file containing the citation information on the repository root
 folder. The file should be named `CITATION.cff`. More information about
 Citation File Format (cff) files can be found
 [here](https://citation-file-format.github.io/). Below there is an
-example ot the contents of a generic `CITATION.cff` file:
+example of the contents of a generic `CITATION.cff` file:
 
 ```         
 cff-version: 1.2.0
@@ -229,7 +221,7 @@ license: EUPL-1.2
 repository-code: "https://github.com/REPOSITORY_NAME"
 ```
 
-## Acknowledgments {#acknowledgments}
+## Acknowledgments
 
 Add the funding acknowledgment for eLTER PPP, eLTER PLUS, and/or eLTER
 EnRich.
