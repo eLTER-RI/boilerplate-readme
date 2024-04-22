@@ -207,18 +207,16 @@ example of the contents of a generic `CITATION.cff` file:
 ```         
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "eLTER Project Software"
-type: software
+title: "eLTER boilerplate readme"
 version: 1.0.0
 year: 2024
 authors:
   - family-names: "Souza"
     given-names: "Allan T."
     orcid: "https://orcid.org/0000-0002-1851-681X"
-    affiliation: "University of Helsinki"
-doi: "ADD_THE_DOI"
+    affiliation: "Institute for Atmospheric and Earth System Research (INAR), Forest Sciences, Faculty of Agriculture and Forestry, University of Helsinki, P.O. Box 27, 00014 Helsinki, Finland"
 license: EUPL-1.2
-repository-code: "https://github.com/REPOSITORY_NAME"
+url: "https://github.com/eLTER-RI/boilerplate-readme"
 ```
 
 ## Acknowledgments
