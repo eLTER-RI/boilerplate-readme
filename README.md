@@ -121,12 +121,13 @@ to the following file naming conventions:
     maintaining sufficient detail.
 -   Include the project identifier (i.e. `eLTER`) name at the beginning
     of the files when possible.
--   Include a version number at the end of the file name such as v01.
-    Change this version number each time the file is saved.
--   Include an identifier of what the file is on the file name.
+-   Include a version number at the end of the file name such as v01 for input files (in assets folder). Change this version number each time the file is modified.
+-   Include an identifier of what the file is on the file name (e.g. CODE, DATA, METADATA, IMAGE...).
 -   Examples:
-    -   `eLTER-CODE-data_loading-v01.R`
+    -   `eLTER-IMAGE-PPP_logo-v01.jpeg`
     -   `eLTER-DATA-temperature_sensor_data-v01.csv`
+
+File naming convention should be follow as much as possible and it is **mandatory** for files in assets folder.
 
 ## Reproducibility
 
