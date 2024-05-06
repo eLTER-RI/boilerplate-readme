@@ -1,4 +1,4 @@
-# Contributing to eLTER-boilerplate-readme
+# Contributing to < INSERT REPOSITORY NAME >
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the managers of this repository before making a change. This Discussion Forum is the perfect place to ask questions, propose features and discuss improvements.
 
@@ -12,7 +12,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the eLTER-boilerplate-readme Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to allan.souza@helsinki.fi.
+This project and everyone participating in it is governed by the < INSERT REPOSITORY NAME > Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to < INSERT E-MAIL >.
 
 ## Getting Started
 
@@ -21,11 +21,11 @@ If you are new to contributing to open source on GitHub, [this guide](https://op
 Before you make your first contribution, you should familiarize yourself with how we do things:
 
 - **Development Process**: We utilize GitHub Issues for tracking suggestions and work in progress.
-- **Communications**: For more direct communication, you can also reach out to the developers (allan.souza@helsinki.fi)
+- **Communications**: For more direct communication, you can also reach out to the developers (< INSERT E-MAIL >)
 
 ### Setting Up Your Environment
 
-Here's a quick rundown on how to set up eLTER-SO-costs-App for local development:
+Here's a quick rundown on how to set up < INSERT REPOSITORY NAME> for local development:
 
 1. Fork the [repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your fork locally.
